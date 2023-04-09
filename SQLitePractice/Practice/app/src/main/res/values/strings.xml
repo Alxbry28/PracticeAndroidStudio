@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="valid_name">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ nbsp</string>
+    <string name="valid_double">1234567890.</string>
+    <string name="valid_username_password">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890_@</string>
+    <string name="valid_quantity">1234567890</string>
+    <string-array name="choices">
+        <item>Self-Employed </item>
+        <item>UnEmployed</item>
+        <item>Employed</item>
+    </string-array>
+
+</resources>
